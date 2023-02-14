@@ -1,0 +1,99 @@
+body {margin:0 ;
+    background-color:#E5FDD1 ;
+    text-align: center;
+}
+p {
+    font-size:1.5rem ;
+}
+h1 {
+    font-size:4rem;
+    font-family:ubuntu;
+    margin-top:0px;
+    background-color: aqua;
+    padding:20px;
+}
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    background-color: aqua;
+    margin-bottom: 0px;
+}
+p {
+    font-family:Barlow;
+}
+h3 {
+    text-align: center;
+}
+.image {
+    height:200px;
+    width: 200px;
+}
+div {
+    text-align: center;
+    margin:20px auto;
+}
+
+ul {
+    text-align: center;
+}
+
+
+.top-container {
+    text-align: center;
+    background-color: aqua;
+    padding:20px;
+    margin-top:0px;
+    margin-left: 0px;
+    margin-right:0px;
+}
+
+.bottom-container {
+    margin-bottom: 0px;
+}
+
+.elm {
+    height:300px;
+}
+
+.bodhi {
+    padding-top:100px ;
+}
+
+.dw {
+    padding-top:100px ;
+}
+
+.lotus {
+    padding-top:100px ;
+}
+
+.enso {
+    padding-top:100px ;
+}
+
+.bodhi-img {
+    height:300px;
+    
+}
+
+.dw-img {
+    height:300px;
+    
+}
+
+.lotus-img {
+    height:300px;
+}
+
+.enso-img {
+    height:300px;
+}
+
+.symbol-p {
+   
+}
+
+ul {
+    list-style-position: inside;
+}
+
